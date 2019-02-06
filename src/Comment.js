@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Blogpost from './Blogpost';
+import BlogPost from './BlogPost';
 
 export default class Comment extends React.Conmponent {
   render() {
@@ -9,4 +9,3 @@ export default class Comment extends React.Conmponent {
     )
   }
 }  
-  
