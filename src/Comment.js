@@ -5,7 +5,7 @@ export default class Comment extends React.Component {
   render() {
     return (
       <div className="comment">
-      {this.props.comenttext}</div> 
+      {this.props.commenttext}</div> 
     )
   }
 }  
